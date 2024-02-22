@@ -1,4 +1,5 @@
-# Byte-sentry--File-integrity-Monitoring-tooThe File Monitoring System is a Python-based application designed to provide users with 
+#Byte sentry 
+Byte-sentry--File-integrity-Monitoring-tooThe File Monitoring System is a Python-based application designed to provide users with 
 real-time vigilance over their files. It operates through a user-friendly web interface where 
 users input their email addresses and passwords, which are used for notification purposes. 
 Upon uploading files, individual threads are created to continuously compute and compare 
